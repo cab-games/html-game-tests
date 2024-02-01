@@ -1,3 +1,9 @@
+---
+layout: page
+title: "HTML Game Tests"
+permalink: /index
+---
+
 [Flappy Block](https://caburum.ga/html-game-tests/flappy-block.html)
 
 To play, hold the "JUMP" button to move up. If you touch the green lines, the game is over. You need to press "RESET" for a new game. This game was coded in HTML5 using the `<canvas>` element.
